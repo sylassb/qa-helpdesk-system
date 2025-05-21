@@ -43,6 +43,6 @@ screenshots/ → Evidence from test executions
 ## 📌 Author
 
 Made by [Sylas Silverio Bonafe] — QA Analyst | Manual + API Testing | Learning Automation  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/sylas-silverio-bonafe/))
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/sylas-silverio-bonafe/])
 
 
