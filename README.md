@@ -2,7 +2,7 @@
 
 This is a practical QA portfolio project that simulates the testing process of a simple Helpdesk system. It includes planning, execution, bug tracking, API testing, performance testing, and basic SQL data validation.
 
-## 🔍 Project Scope
+##  Project Scope
 
 The system allows users to:
 - Log in
@@ -10,7 +10,7 @@ The system allows users to:
 - Add comments to tickets
 - Close tickets
 
-## 🧪 Testing Focus
+##  Testing Focus
 
 This project covers:
 
@@ -20,7 +20,7 @@ This project covers:
 - SQL Queries for data validation
 - Bug reporting using DevOps/JIRA format
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Postman
 - JMeter
@@ -29,7 +29,7 @@ This project covers:
 - SQL (basic)
 - Chrome DevTools
 
-## 📁 Project Structure
+##  Project Structure
 
 test-plan/ → Test strategy and test plan
 test-cases/ → Manual test cases
@@ -40,7 +40,7 @@ sql/ → Data queries for validation
 screenshots/ → Evidence from test executions
 
 
-## 📌 Author
+##  Author
 
 Made by [Sylas Silverio Bonafe] — QA Analyst | Manual + API Testing | Learning Automation
 
