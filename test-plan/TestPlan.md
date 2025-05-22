@@ -45,8 +45,7 @@ This document outlines the test strategy and plan for the QA Helpdesk System. Th
 - Azure DevOps / JIRA (for bug tracking simulation)  
 - Git & GitHub (version control)  
 - Postman (API tests)  
-- JMeter (performance tests)  
-- Chrome DevTools (debugging, console errors, etc.)  
+- JMeter (performance tests)   
 - SQLite or mock DB (data queries)
 
 ---
@@ -94,3 +93,4 @@ This document outlines the test strategy and plan for the QA Helpdesk System. Th
 
 - [ISTQB Foundation Guidelines](https://www.istqb.org/)
 - [Agile Testing Principles](https://www.agilealliance.org/agile-testing/)
+
