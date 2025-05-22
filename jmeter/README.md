@@ -1,4 +1,4 @@
-# JMeter Performance Test – QA Helpdesk System
+# JMeter Performance Test – QA Helpdesk System - 
 
 This folder contains the performance test plan and results for the simulated QA Helpdesk System.
 
